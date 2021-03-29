@@ -1,0 +1,64 @@
+
+body{
+    background-color: whitesmoke;
+}
+h1{
+    
+    color:purple;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    color:black;
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+
+.first{
+    background-color: white;
+    border: solid;
+    
+    width: 20%;
+    
+}
+.second{
+    background-color: white;
+   border: solid;
+   width: 20%;
+}
+.third{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+.four{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+.five{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+.six{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+.seven{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+.eight{
+    background-color: white;
+border: solid;
+width: 20%;
+}
+
+img{
+    width: 30%;
+}
+

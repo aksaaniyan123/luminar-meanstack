@@ -1,0 +1,78 @@
+
+body{
+    margin: 0;
+}
+
+
+
+
+h1{
+    margin: 0;
+    text-align: center;
+    font-family: 'Chango', cursive;
+    text-align: center;
+    
+}
+.main{
+
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    
+    display: flex;
+
+
+
+.partone{
+    
+    background-color:cyan;
+    width: 40%;
+    height: 200px;
+   background-color: brown;
+   border: 1px solid white;
+    
+   
+}
+
+
+}
+.parttwo{
+    background-color:pink;    
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: 30%;
+    
+  
+}
+
+.partthree{
+    
+    background-color: blue;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: 30%;
+    
+    
+    
+}
+.partfour{
+    background-color:darkgreen; 
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: 30%;
+    
+}
+    .partfive{
+        background-color:red;
+        width: 40%;
+        height: 200px;
+        position: relative;
+        top: 30%;
+       
+
+}
+
+
